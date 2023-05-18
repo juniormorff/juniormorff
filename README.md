@@ -7,7 +7,7 @@
   
 ![juniormorff GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormorff&show_icons=true&theme=gruvbox) 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormorff&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormorff&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![snake gif](https://github.com/juniormorff/juniormorff/blob/output/github-contribution-grid-snake.svg)
 
