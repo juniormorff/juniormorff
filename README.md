@@ -10,6 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormorff&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![snake gif](https://github.com/juniormorff/juniormorff/blob/output/github-contribution-grid-snake.svg)
+<br>
 
 
 ## Tecnologias que estou aprendendo atualmente
