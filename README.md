@@ -7,11 +7,11 @@
 <a href="https://wa.me/5534992150874" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
   
-![lucaseop GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaseop&show_icons=true&theme=dracula) 
+![juniormorff GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormorffp&show_icons=true&theme=dracula) 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseop&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormorff&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![snake gif](https://github.com/lucaseop/lucaseop/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/juniormorff/juniormorff/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Tecnologias que eu uso no meu dia
