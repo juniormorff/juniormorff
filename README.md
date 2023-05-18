@@ -5,7 +5,7 @@
 <a href="https://wa.me/5534992150874" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
   
-![juniormorff GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormorff&show_icons=true&theme=dracula) 
+![juniormorff GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormorff&show_icons=true&theme=gruvbox) 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormorff&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br>
